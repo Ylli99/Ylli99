@@ -1,6 +1,6 @@
 - 👋 Hi @everyone, I'm @Ylli
 - 👀 I’m a computer science student :)
-- 🌱 I’m currently learning react, in order to build powerful applications, and the development of a game.
+- 🌱 I’m currently learning react, in order to build powerful applications.
 - 📫 How to reach me: e-mail me @ylliineziri@gmail.com or add me on discord @Ylli#3576
 
 <!---
